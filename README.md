@@ -22,7 +22,8 @@ The ultimate goal is to create a robust model that accurately captures the dynam
 
 ## General Information
 
-**Objectives:**
+## Objectives
+
 The objectives for this project involve building a regression model with regularization techniques to predict house prices in the Australian real estate market using the [dataset](./train.csv). Key goals include identifying significant variables impacting house prices, evaluating the model's effectiveness in explaining price variations, and determining optimal lambda values for ridge and lasso regression. The overarching business goal is to create a robust model that aids strategic decision-making for Surprise Housing, optimizing their investment strategy in the Australian market and providing insights into the unique pricing dynamics of this new market for sustained success.
 
 ## Conclusions
