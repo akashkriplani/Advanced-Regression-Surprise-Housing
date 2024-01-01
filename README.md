@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Surprise Housing, a US-based real estate company, has set its sights on entering the Australian market with a strategic approach to property investment. Leveraging data analytics, the company aims to identify lucrative opportunities by acquiring houses below market value and selling them at a premium. To facilitate this, Surprise Housing has gathered a comprehensive dataset from Australian house sales, presented in the provided CSV file.
+Surprise Housing, a US-based real estate company, has set its sights on entering the Australian market with a strategic approach to property investment. Leveraging data analytics, the company aims to identify lucrative opportunities by acquiring houses below market value and selling them at a premium. To facilitate this, Surprise Housing has gathered a comprehensive dataset from Australian house sales, presented in the provided [CSV file](./train.csv).
 
 The task at hand is to develop a regression model with regularization techniques to predict the actual values of potential properties. This predictive model will play a pivotal role in aiding decision-making on whether to invest in prospective properties or not. The primary objectives include identifying the significant variables influencing house prices and assessing how effectively these variables explain the variation in house prices.
 
