@@ -1,6 +1,6 @@
 # Predictive Analytics for Real Estate Investment: A Regression Model Approach for Surprise Housing in the Australian Market
 
-## Problem Statement:
+## Problem Statement
 
 Surprise Housing, a US-based real estate company, has set its sights on entering the Australian market with a strategic approach to property investment. Leveraging data analytics, the company aims to identify lucrative opportunities by acquiring houses below market value and selling them at a premium. To facilitate this, Surprise Housing has gathered a comprehensive dataset from Australian house sales, presented in the provided CSV file.
 
@@ -8,7 +8,7 @@ The task at hand is to develop a regression model with regularization techniques
 
 Additionally, the assignment involves determining the optimal values of lambda for both ridge and lasso regression, contributing to the precision of the predictive model.
 
-## Business Goal:
+## Business Goal
 
 The ultimate goal is to create a robust model that accurately captures the dynamic relationship between independent variables and house prices. This model will serve as a valuable tool for management, enabling a nuanced understanding of price variations and empowering strategic decision-making. By concentrating efforts on areas with high return potential, Surprise Housing aims to optimize its investment strategy in the Australian market. Furthermore, the model will provide insights into the unique pricing dynamics of this new market, offering a comprehensive understanding for effective market penetration and sustained success.
 
